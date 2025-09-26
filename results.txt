@@ -1,0 +1,17 @@
+===== Running hello.c =====
+My pid is 7782
+
+===== Running Heap.c =====
+I am the child
+
+===== Running Join.c =====
+MAIN
+HELPER
+
+===== Running Stack.c =====
+i is 2
+
+===== Running Threads.c =====
+Data is 1
+Data is 1
+
